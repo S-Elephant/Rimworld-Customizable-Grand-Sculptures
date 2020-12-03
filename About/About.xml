@@ -1,0 +1,19 @@
+<ModMetaData>
+	<name>Customizable Grand Sculptures</name>
+	<author>Squirting Elephant</author>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>SquirtingElephant.CustomizableGrandSculptures</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+	<description>Allows you to customize the important stats of Grand Sculptures.
+
+Technical info:
+- Uses C# but is very compatible. Source is included.
+- Can safely be added and removed to an existing game without any problems.
+- Changes require a game restart (save and exit, start Rimworld and load game).</description>
+</ModMetaData>

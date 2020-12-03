@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+ 
+  <!-- Settings -->
+  <CGS_SettingsCategory>Customizable Grand Sculptures</CGS_SettingsCategory>
+  <CGS_SettingsRequiresRestart>Changes made require a game-restart before they take effect.</CGS_SettingsRequiresRestart>
+  <CGS_Beauty>Base beauty </CGS_Beauty>
+  <CGS_MaxHP>Base hitpoints </CGS_MaxHP>
+  <CGS_WorkToMake>Work to make </CGS_WorkToMake>
+  <CGS_Mass>Mass </CGS_Mass>
+  <CGS_CostStuffCount>Cost stuff count </CGS_CostStuffCount>
+  
+</LanguageData>
